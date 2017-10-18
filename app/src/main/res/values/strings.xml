@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProyetoHitHub</string>
+    <string name="Primer_Nombre">ProyetoHitHub</string>
+    <string name="Segundo_Nombre">ProyetoHitHub</string>
+    <string name="Primer_Apellido">ProyetoHitHub</string>
+    <string name="Segundo_Apellido">ProyetoHitHub</string>
+    <string name="DPI">ProyetoHitHub</string>
+    <string name="eMail">ProyetoHitHub</string>
+
+
+</resources>
